@@ -21,6 +21,9 @@ hidl_interface {
         "PhysicalDropDetected",
         "SlowIo",
         "SpeakerImpedance",
+        "UsbPortOverheatEvent",
+        "SpeechDspStat",
+        "VendorAtom",
     ],
     gen_java: true,
 }
